@@ -14,6 +14,6 @@ As of now, my focus is only on MLP (Multi-Layer Perceptron) network. I will be m
 
 Link to python implementation can be found in the original paper.
 
-Link for parameters as used in matlab https://drive.google.com/open?id=1dPtbrOCxBycn7mOVFQg1H_bN7qkZAcOj
+Link to parameters as used in matlab https://drive.google.com/open?id=1dPtbrOCxBycn7mOVFQg1H_bN7qkZAcOj
 
-Link for all the parameters https://drive.google.com/file/d/1j2mqnFlUTV8vx-y06wADaGCwDgcy3fPz/view
+Link to all the parameters https://drive.google.com/file/d/1j2mqnFlUTV8vx-y06wADaGCwDgcy3fPz/view
